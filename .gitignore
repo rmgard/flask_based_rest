@@ -1,0 +1,8 @@
+FlaskRESTful_section4/restWithFlaskVenv
+sqlStorage_section5/sqlSourceFlaskVenv
+simpleStorage_section6/venv
+
+*.db
+
+__pycache__
+venv
